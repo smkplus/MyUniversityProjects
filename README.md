@@ -1,12 +1,12 @@
 # My Universiy Project
 
-<div dir="rtl"> <h1> Java & MySQL پروژه استاد تاری </h1> </div>
+<div dir="rtl"> <h1>  پروژه استاد تاری (Java & MySQL)</h1> </div>
 
 
 ![photo_2018-12-14_09-38-43](https://user-images.githubusercontent.com/16706911/49986178-17829580-ff84-11e8-8fe0-a1caa6a2ae0a.jpg)
 ![photo_2018-12-14_09-38-50](https://user-images.githubusercontent.com/16706911/49986177-16516880-ff84-11e8-8a3d-5fc60a6ffadf.jpg)
 
-<div dir="rtl"> <h1>C# & SQLSERVER پروژه استاد پور امینی </h1> </div>
+<div dir="rtl"> <h1> پروژه استاد پور امینی (C# & SQLSERVER)</h1> </div>
 
 ![image_2018_12_14-9_54_40_911_vzn](https://user-images.githubusercontent.com/16706911/49986839-8660ee00-ff86-11e8-8eec-354775dce85f.PNG)
 ![image_2018_12_14-9_54_37_646_lzj](https://user-images.githubusercontent.com/16706911/49986846-8a8d0b80-ff86-11e8-89d9-64cc1c0f6c03.PNG)
