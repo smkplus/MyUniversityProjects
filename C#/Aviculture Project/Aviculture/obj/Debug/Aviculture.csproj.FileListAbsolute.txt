@@ -1,0 +1,12 @@
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\bin\Debug\Aviculture.exe.config
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\bin\Debug\Aviculture.exe
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\bin\Debug\Aviculture.pdb
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\obj\Debug\Aviculture.csprojResolveAssemblyReference.cache
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\obj\Debug\Aviculture.Properties.Resources.resources
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\obj\Debug\Aviculture.csproj.GenerateResource.Cache
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\obj\Debug\Aviculture.exe
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\obj\Debug\Aviculture.pdb
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\obj\Debug\Aviculture.Home.resources
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\obj\Debug\Aviculture.LoginPage.resources
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\obj\Debug\Aviculture.EmployerPage.resources
+C:\Users\Smkgames\documents\visual studio 2017\Projects\Aviculture\Aviculture\obj\Debug\Aviculture.AviculturePage.resources

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aviculture", "Aviculture\Aviculture.csproj", "{68581D10-4282-4060-97E6-1F21C5229036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68581D10-4282-4060-97E6-1F21C5229036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68581D10-4282-4060-97E6-1F21C5229036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68581D10-4282-4060-97E6-1F21C5229036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68581D10-4282-4060-97E6-1F21C5229036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
