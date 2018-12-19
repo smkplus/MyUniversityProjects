@@ -1,0 +1,2 @@
+Add this data base to 
+C:\xampp\mysql\data
